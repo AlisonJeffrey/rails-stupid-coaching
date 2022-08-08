@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+
+body {
+  text-align: center;
+}
+
+h1, h4 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* .highlight {
+  background-color: #FFFFE1;
+} */
